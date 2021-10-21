@@ -1,0 +1,22 @@
+{
+  "entrypoints": {
+    "react.widget": {
+      "main": [
+        "remote/assets/react.widget.a0e113d4.js"
+      ],
+      "vendor": [
+        "remote/assets/vendor.91028769.js",
+        "remote/assets/vendor-react.91a39367.js"
+      ]
+    },
+    "einvoice.dashboard": {
+      "main": [
+        "remote/assets/einvoice.dashboard.a2bc2a8b.js"
+      ],
+      "vendor": [
+        "remote/assets/vendor.91028769.js",
+        "remote/assets/vendor-react.91a39367.js"
+      ]
+    }
+  }
+}
